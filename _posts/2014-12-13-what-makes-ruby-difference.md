@@ -41,7 +41,7 @@ Yes, it's the truth. But when you choose a language, you are not only care about
 
 If it have a realtime features or high complexity algorithms, you really need speed. In otherwise, you haven't any features really need speed, you should think about stability, flexibility, simplicity ... and the community to help you.
 
-<div class="full zoomable"><img src="/blog/images/ruby-benchmark_comparison.png"></div>
+<div class="full zoomable"><img src="/images/ruby-benchmark_comparison.png"></div>
 #### Ruby is a open source programming language
 
 Ruby have a large community contribution because it's a open source language, any time you need help you can ask them or finding yourself in the very big questions library asked by another ones.
