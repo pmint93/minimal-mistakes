@@ -1,8 +1,10 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:              http://localhost:4000
+title:            Pmint
+locale:           vi-VN
+url:              http://pmint93.github.io
+source:           .
+destination:      ./../pmint93.github.io
 
 
 # Jekyll configuration
@@ -26,32 +28,32 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  name: Thanh Pham
+  avatar: pmint93.jpg
+  bio: "."
+  email: phamminhthanh69@gmail.com
+  disqus-shortname: pmint93
+  twitter: pmint93
+  facebook: pmint93
   google:
-    plus: #username
-    analytics: 
+    plus: 103799953412679091715
+    analytics: UA-57630353-1
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: pmint93
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: pmint93
   lastfm: #username
   tumblr: #username
   pinterest: #username
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
-  soundcloud: #username
+  youtube: pmint93
+  soundcloud: thanh-pham-minh
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
